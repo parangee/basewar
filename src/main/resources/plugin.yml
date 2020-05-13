@@ -1,0 +1,8 @@
+name: basewar
+version: 1.0
+main: tk.pshub.parangee.basewar.plugin.BaseWar
+depend:
+  - Kotlin
+commands:
+  기지전쟁:
+    permission: pshub.basewar.command
